@@ -4,4 +4,6 @@ div{
     background-color: tomato;
     color: aqua;
     text-transform: uppercase;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
